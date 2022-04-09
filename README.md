@@ -8,13 +8,13 @@ No One Can Contact Me Until They Join ~~GANGS~~ Discord
 I Just Copy Them :)
 # Languages
 - [X] Python
-- [] Java
-- [] Ruby
+- [ ] Java
+- [ ] Ruby
 - [X] C
 - [X] BhaiLang
 - [X] HTML
 - [X] CSS
-- [] Swift
+- [ ] Swift
 - [X] Shell
 - [X] Bash
-- [] Dash
+- [ ] Dash
