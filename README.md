@@ -18,3 +18,19 @@ I Just Copy Them :)
 - [X] Shell
 - [X] Bash
 - [ ] Dash
+
+# A Shitty table
+| Lang | Learned|
+|----|-------|
+| Python | Yes |
+| Java | No |
+| Ruby | No |
+| C | Yes |
+| Bhailang | Kinda |
+| HTML | Forgot But Yes |
+| CSS | Kinda |
+| Swift | No, Apple Sucks |
+| Shell | Yes |
+| Bash | Yes |
+| Dash | No |
+
