@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IshanNeupan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning every thing i can
-- 💞️ I’m looking to collaborate on hmm idk
+# About Me 
+Hi, Am IshanNeupane From Earth Who Likes To Code And Get Bad Grades At School
+# Am I Pro
+Nope, Not A Chance
+# Contact Me
+No One Can Contact Me Until They Join ~~GANGS~~ Discord
+# Then How Are You Repos So OP
+I Just Copy Them :)
 
-<!---
-IshanNeupan/IshanNeupan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
